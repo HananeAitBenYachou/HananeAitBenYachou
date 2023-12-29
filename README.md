@@ -28,6 +28,7 @@ I am a .NET Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://media.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="300" height="300"/>
 </div>
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
