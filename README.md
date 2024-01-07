@@ -5,6 +5,17 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="300"/>
   </div>
+<div id="badges" align ="center"> 
+<a href="https://www.linkedin.com/in/hanane-ait-ben-yachou-04075b2a8">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+</a> 
+<a href="https://github.com/HananeAitBenYachou"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a> 
+<a href="mailto:hananeaitbenyachou@gmail.com"> 
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a> 
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" align="center"/>
 </div>
