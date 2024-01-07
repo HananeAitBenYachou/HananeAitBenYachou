@@ -12,10 +12,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a .NET Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 - 🌱 I’m currently learning **ASP.NET**
-
-- 💬 Ask me about **.NET Framework**
+  
+- 👯 I’m looking to collaborate on open source projects
+  
+- 💬 Ask me about **C#** , **.NET Framework** , **Web development**
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
