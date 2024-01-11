@@ -57,3 +57,9 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HananeAitBenYachou&theme=algolia&border_radius=4.6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HananeAitBenYachou&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### 🏆 My Trophies :
+![](https://github-profile-trophy.vercel.app/?username=HananeAitBenYachou&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=-1)
