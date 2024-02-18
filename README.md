@@ -1,10 +1,10 @@
- <h1 align="center">
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div id="header" align="center">
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Hanane+!" alt="Typing SVG" />
+ </a>
+ </h1>
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="300"/>
-  </div>
+</div>
 <div id="badges" align ="center"> 
 <a href="https://www.linkedin.com/in/hanane-ait-ben-yachou-04075b2a8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
