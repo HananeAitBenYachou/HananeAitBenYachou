@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
   
 - 👯 I’m looking to collaborate on open source projects
   
@@ -41,7 +41,7 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://media.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="300" height="300"/>
 </div>
 <div align="center">
- <img width="600px"src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,dotnet,git,vscode,visualstudio&perline=12"  />
+ <img width="600px"src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,dotnet,git,vscode,visualstudio&perline=12"  />
 </div>
 
 ---
